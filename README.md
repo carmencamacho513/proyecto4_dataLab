@@ -1,7 +1,5 @@
 # ✈ Proyecto 4: DataLab
 
-## ✈ Proyecto 4: DataLab&#x20;
-
 Datalab, una empresa especializada en análisis de datos, se destaca por su enfoque innovador en la toma de decisiones informada para el éxito empresarial. Como socio confiable para diversas empresas, su modelo de consultoría único permite a los analistas de datos elegir proyectos alineados con sus intereses, fomentando un ambiente dinámico y creativo.
 
 Datalab se ha concluido con éxito el proyecto centrado en el análisis de datos de cancelaciones y retrasos de vuelos.
